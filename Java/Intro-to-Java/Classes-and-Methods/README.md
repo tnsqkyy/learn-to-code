@@ -7,7 +7,7 @@ Let’s go over some basic rules for writing Java programs.
 
 ## Java Files
 
-- Java files always have a **`.java` extension`**.  
+- Java files always have a **`.java` extension**.  
 - Some programs are just **one file**, others have **hundreds of files**.  
 
 Example: `HelloWorld.java`
